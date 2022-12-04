@@ -49,4 +49,9 @@ Architecture Preview :
 
 ![téléchargement (1)](https://user-images.githubusercontent.com/84160502/205517133-0b1ddc33-140e-4e00-a25c-51bba857c9ee.png)
 
+## Performance metrics :
+(F1 , Accuracy , Loss , Precision , Recall, Confusion_Matrix ..) these metrics will evaluate our models performance 
+for more information about these metrics <br>
+<b>Link </b> :https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide  
+
 
