@@ -5,7 +5,7 @@ This project aims to develop an BTD system from MRI (Magnetic Resonance Imaging)
 ### Choice of Datasets
 For the realization of our Project, we opted for data available on "Kaggle". 
 For our  Deep learning models we choose mainly “Brain MRI Images dataset”. <br><br/>
-Link:https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+<b> Link <b/>: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 ![téléchargement (2)](https://user-images.githubusercontent.com/84160502/205517138-1fd60817-d0af-46f7-a804-7fd621e3a24a.png)
 
 ## Choice of Models
