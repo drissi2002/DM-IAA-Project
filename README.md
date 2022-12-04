@@ -1,7 +1,7 @@
 # Summary
 
-- This project aims to develop an BTD system from MRI (Magnetic Resonance Imaging) scans. This system will help clinicians to make an accurate diagnosis in order to improve the survival of patients. This system must provide a set of requirements and must be designed according to a deep learning architecture . It must explore different MRI scans and must make use of a set of well - defined metrics for its performance evaluation .
-This file will be detailing the voice of the datasets Deep Learning Models.
+This project aims to develop an BTD system from MRI (Magnetic Resonance Imaging) scans. This system will help clinicians to make an accurate diagnosis in order to improve the survival of patients. This system must provide a set of requirements and must be designed according to a deep learning architecture . It must explore different MRI scans and must make use of a set of well - defined metrics for its performance evaluation.
+
 ### Choice of Datasets
 For the realization of our Project, we opted for data available on "Kaggle". 
 For our  Deep learning models we choose mainly “Brain MRI Images dataset”.
