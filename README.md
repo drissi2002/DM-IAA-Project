@@ -6,7 +6,9 @@ For the realization of our Project, we opted for data available on <b> "Kaggle" 
 For our  Deep learning models we choose mainly “Brain MRI Images dataset”. 
 <br>
 <b> Link </b>: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
-![téléchargement (2)](https://user-images.githubusercontent.com/84160502/205517138-1fd60817-d0af-46f7-a804-7fd621e3a24a.png)
+<br>
+![image](https://user-images.githubusercontent.com/84160502/205517767-543ba346-0470-43f2-8ef1-7ceb6ab91d31.png)
+
 ## choice of Models :
 In modern days, checking the huge number of MRI <b> (magnetic resonance imaging)</b> images and finding a brain tumor manually by a human is a very tedious and 
 inaccurate task. It can affect the proper medical treatment of the patient. Again, it can be a hugely time-consuming task as it involves a huge number of image 
