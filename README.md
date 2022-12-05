@@ -5,10 +5,10 @@ This project aims to develop an <b> BTD </b> system from </b> MRI (Magnetic Reso
 For the realization of our Project, we opted for data available on <b> "Kaggle" </b>. 
 For our  Deep learning models we choose mainly “Brain MRI Images dataset”. 
 <br>
+![image](https://user-images.githubusercontent.com/84160502/205517767-543ba346-0470-43f2-8ef1-7ceb6ab91d31.png)
+<br>
 <b> Link </b>: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 <br>
-![image](https://user-images.githubusercontent.com/84160502/205517767-543ba346-0470-43f2-8ef1-7ceb6ab91d31.png)
-
 ## choice of Models :
 In modern days, checking the huge number of MRI <b> (magnetic resonance imaging)</b> images and finding a brain tumor manually by a human is a very tedious and 
 inaccurate task. It can affect the proper medical treatment of the patient. Again, it can be a hugely time-consuming task as it involves a huge number of image 
